@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tokyo ACM SIGIR Chapter</title>
+    <link>http://sigir.jp/page/</link>
+    <description>Recent content in Pages on Tokyo ACM SIGIR Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</managingEditor>
+    <webMaster>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</webMaster>
+    
+	<atom:link href="http://sigir.jp/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Tokyo Chapter</title>
+      <link>http://sigir.jp/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</author>
+      <guid>http://sigir.jp/page/about/</guid>
+      <description>Some messages from the chair</description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>http://sigir.jp/page/organization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</author>
+      <guid>http://sigir.jp/page/organization/</guid>
+      <description> Chair Hideo Joho (University of Tsukuba)
+Vice Chair Tetsuya Sakai (Waseda University)
+Treasurer Masaharu Yoshioka (Hokkaido University)
+Members  Atsushi Keyaki (Tokyo Institute of Technology) Makoto P. Kato (Kyoto University) Takehiro Yamamoto (Kyoto University) Hiroaki Ohshima (University of Hyogo) Kazunari Sugiyama (National University of Singapore) Harumi Murakami (Osaka City University) Haitao Yu (University of Tsukuba)  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tokyo ACM SIGIR Chapter</title>
+    <link>http://sigir.jp/</link>
+    <description>Recent content on Tokyo ACM SIGIR Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</managingEditor>
+    <webMaster>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</webMaster>
+    <lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sigir.jp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tokyo ACM SIGIR Chapter was approved by ACM</title>
+      <link>http://sigir.jp/post/2017-12-27-first-post/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</author>
+      <guid>http://sigir.jp/post/2017-12-27-first-post/</guid>
+      <description>This is my first post, how exciting!</description>
+    </item>
+    
+    <item>
+      <title>About Tokyo Chapter</title>
+      <link>http://sigir.jp/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</author>
+      <guid>http://sigir.jp/page/about/</guid>
+      <description>Some messages from the chair</description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>http://sigir.jp/page/organization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (Tokyo ACM SIGIR Chapter Officers)</author>
+      <guid>http://sigir.jp/page/organization/</guid>
+      <description> Chair Hideo Joho (University of Tsukuba)
+Vice Chair Tetsuya Sakai (Waseda University)
+Treasurer Masaharu Yoshioka (Hokkaido University)
+Members  Atsushi Keyaki (Tokyo Institute of Technology) Makoto P. Kato (Kyoto University) Takehiro Yamamoto (Kyoto University) Hiroaki Ohshima (University of Hyogo) Kazunari Sugiyama (National University of Singapore) Harumi Murakami (Osaka City University) Haitao Yu (University of Tsukuba)  </description>
+    </item>
+    
+  </channel>
+</rss>
